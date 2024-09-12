@@ -1,4 +1,5 @@
-# SALES-ANALYTICS-INSIGHTS-360-
+# SALES Analytics Project
+
 
 I am happy to share my latest project as a data analyst at Atiq Mart!
 
